@@ -1,15 +1,15 @@
-## Deadaction :pirate_flag:
+## deadaction :pirate_flag:
 
-### Deadaction is a PROXY, VPN and TOR ip detection tool
+### deadaction is a PROXY, VPN and TOR ip detection tool
 
 - Although the purpose of use varies according to the platform or the person, it can be used in the field of blocking or intelligence.
 - Deadaction is just an example!
 
 ## Install and Usage
-`$ git clone https://github.com/Zweizack/Deadaction.git`
+`$ git clone https://github.com/Zweizack/deadaction.git`
 
-`$ cd Deadaction/`
+`$ cd deadaction/`
 
-`$ chmod +x Deadaction.py`
+`$ chmod +x deadaction.py`
 
-`$ python3 Deadaction.py`
+`$ python3 deadaction.py`

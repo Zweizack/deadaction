@@ -5,10 +5,19 @@
 - Although the purpose of use varies according to the platform or the person, it can be used in the field of blocking or intelligence, deadaction is just an example!
 
 ## Install and Usage
-`$ git clone https://github.com/Zweizack/deadaction.git`
 
-`$ cd deadaction/`
+```bash
+$ git clone https://github.com/Zweizack/deadaction.git
+```
 
-`$ chmod +x deadaction.py`
+```bash
+$ cd deadaction/
+```
 
-`$ python3 deadaction.py`
+```bash
+$ chmod +x deadaction.py
+```
+
+```bash
+$ python3 deadaction.py
+```

@@ -6,18 +6,18 @@
 
 ## Install and Usage
 
-```bash
+```
 $ git clone https://github.com/Zweizack/deadaction.git
 ```
 
-```bash
+```
 $ cd deadaction/
 ```
 
-```bash
+```
 $ chmod +x deadaction.py
 ```
 
-```bash
+```
 $ python3 deadaction.py
 ```
